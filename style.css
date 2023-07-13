@@ -38,3 +38,13 @@ button {
 .clear-button {
   width: 11rem;
 }
+
+@media (max-width: 370px){
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+  }
+}
+  
