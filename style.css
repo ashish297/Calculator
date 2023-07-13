@@ -39,7 +39,7 @@ button {
   width: 11rem;
 }
 
-@media (max-width: 420px){
+@media (max-width: 500px){
 
   .container {
     text-align: center;
